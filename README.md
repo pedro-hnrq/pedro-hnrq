@@ -19,7 +19,7 @@
  
  <h3>#Contato</h3>
  
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:pedr.fts@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:pedr.fts@gmail.com?subject=DEV&body=Ol%C3%A1%2C%20tudo%20bem%3F%20como%20eu%20posso%20ajuda%3F)
   
  
  
