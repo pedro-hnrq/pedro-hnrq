@@ -1,4 +1,4 @@
-<h1 align="center">Seja Bem-Vido!</h1>
+<h1 align="center">Seja Bem-Vindo!</h1>
 
 
 <h3>#Skills</h3>
