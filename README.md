@@ -1,5 +1,8 @@
 <h1 align="center">Seja Bem-Vindo!</h1>
 
+<h3>#Bio</h3>
+
+<p>Sou DEV em Front-End, tem objetivo de dominar a liguagem Python e o framework(Django).</p>
 
 <h3>#Skills</h3>
 
