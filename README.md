@@ -2,7 +2,7 @@
 
 <h3>#Bio</h3>
 
-<p>Sou DEV em Front-End, tem objetivo de dominar a liguagem Python com o framework(Django).</p>
+<p>Sou DEV, com o objetivo de dominar a liguagem Python com o framework(Django).</p>
 
 <h3>#Skills</h3>
 
