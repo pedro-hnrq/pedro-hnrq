@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36a4a5,100:18d167&height=210&section=header&text=Pedro+Feitosa&fontSize=90&fontColor=d1e2e0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36a4a5,100:18d167&height=210&section=header&text=Pedro+Feitosa&animation=twinkling&fontSize=90&fontColor=d1e2e0"/>
 
 <h1 align="center">Seja Bem-Vindo!</h1>
 
