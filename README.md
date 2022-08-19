@@ -6,13 +6,17 @@
  
  </h1>
 
-<h3>#Bio</h3>
+<h2>#Objective</h2>
 
-<p>Sou DEV, com o objetivo de dominar a liguagem Python com o framework(Django).</p>
+<p>I'm DEV, aiming to master the Python language with the framework (Django).</p>
 
-<h3>#Skills</h3>
+<h2>#Skills</h2>
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" heigth="40" alt="PYTHON" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" heigth="40" alt="DJANGO"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" heigth="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" heigth="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" heigth="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" heigth="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" heigth="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" heigth="40"/>
+
+</div>
+<h2>#Dashboard</<h2>
 
 <div algin="center"> 
 
