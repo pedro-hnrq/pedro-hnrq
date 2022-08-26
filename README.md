@@ -32,6 +32,7 @@
 </div>
 
 <h2>#Tools</h2>
+
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" heigth="40" alt="VSCODE" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" heigth="40" alt="PyCharm" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" heigth="40" alt="Linux"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" heigth="40" alt="Windows"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" heigth="40" alt="Git"/>   <img src="https://user-images.githubusercontent.com/74242717/185792727-cb774621-6d87-4754-b27a-1de86c38dbbc.png" width="60" heigth="40" alt="GitHub" placeholder='GitHub'/></i>
