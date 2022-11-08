@@ -5,7 +5,7 @@
           
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&pause=1000&color=064E92&center=true&vCenter=true&width=1000&height=60&lines=%F0%9F%96%90%F0%9F%8F%BD+Hello%2C+my+name+Pedro+Henrique+Soares+Feitosa;I'm+29+years+old+%F0%9F%99%8B%F0%9F%8F%BD;I+from+Brazil%2C+CE+%F0%9F%8F%A1;I+am+a+Bachelor+of+Information+System+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Be+Welcome+%F0%9F%98%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&pause=1000&color=064E92&center=true&vCenter=true&width=1000&height=60&lines=%F0%9F%96%90%F0%9F%8F%BD+Hello%2C+my+name+Pedro+Henrique+Soares+Feitosa;I'm+29+years+old+%F0%9F%99%8B%F0%9F%8F%BD;I+from+São+Bernardo+Campo+-+SP,+Brazil%2C+CE+%F0%9F%8F%A1;I+am+a+Bachelor+of+Information+System+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Be+Welcome+%F0%9F%98%84)](https://git.io/typing-svg)
  
 
 <h2>#Objective</h2>
