@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" heigth="40" alt="VSCODE" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" heigth="40" alt="PyCharm" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" heigth="40" alt="Linux"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" heigth="40" alt="Windows"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" heigth="40" alt="Git"/>   <img src="https://user-images.githubusercontent.com/74242717/187789166-5e318468-bc61-4844-8c37-a9ba3b4fcad2.png" width="60" heigth="40" alt="GitHub" placeholder='GitHub'/></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" heigth="40" alt="VSCODE" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" heigth="40" alt="PyCharm" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" heigth="40" alt="Linux"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" heigth="40" alt="Windows"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" heigth="40" alt="Git"/>    <img src="https://user-images.githubusercontent.com/74242717/187789166-5e318468-bc61-4844-8c37-a9ba3b4fcad2.png" width="60" heigth="40" alt="GitHub" placeholder='GitHub'/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" heigth="90" alt="Docker" align="stretch"/></i>
            
 
 
@@ -45,7 +45,7 @@
 <h2>#Studying in This Moment</h2>
 <div align="center">
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" heigth="50" alt="Docker"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" heigth="50" alt="NodeJS"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="70" heigth="50" alt="TypeSpcrite"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" heigth="50" alt="React"/>    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" heigth="50" alt="React"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" heigth="50" alt="NodeJS"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="70" heigth="50" alt="TypeSpcrite"/>    
  
  
  </div>
@@ -56,8 +56,8 @@
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-feitosa-)
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/plwma6)
- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/753958694210764871)
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PedroFeitosa08)
+ [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/753958694210764871)
  
 </div>
  
