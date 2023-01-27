@@ -21,7 +21,7 @@
  
 </div>
 
-[Contribution](https://activity-graph.herokuapp.com/graph?username=pedro-hnrq&theme=gotham&hide_border=true&area=true)
+
  
 
 <h2>#Skills</h2>
