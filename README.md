@@ -21,8 +21,8 @@
  
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedro-hnrq&bg_color=1d1d1d&color=f95801&line=20cb81&point=3526a6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedro-hnrq&bg_color=0d1117&color=20cb81&line=112474&point=3cb9aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>#Skills</h2>
 <div align="center">
