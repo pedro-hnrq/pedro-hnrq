@@ -10,7 +10,7 @@
 
 <h2>#Objective</h2>
 
-<p>I'm DEV, aiming to master the Python language with the framework (Django).</p>
+<p>I'm DEV, Developer in Python with Django framework, Network administration and Server Maintenance.</p>
 
 <h2>#Dashboard</h2> 
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" heigth="40" alt="VSCODE" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" heigth="40" alt="PyCharm" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" heigth="40" alt="Linux"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" heigth="40" alt="Windows"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" heigth="40" alt="Git"/>    <img src="https://user-images.githubusercontent.com/74242717/187789166-5e318468-bc61-4844-8c37-a9ba3b4fcad2.png" width="60" heigth="40" alt="GitHub" placeholder='GitHub'/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" heigth="90" alt="Docker" align="stretch"/></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" heigth="40" alt="VSCODE" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" heigth="40" alt="PyCharm" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" heigth="40" alt="Linux"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" heigth="40" alt="Windows"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" heigth="40" alt="Oracle"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" heigth="40" alt="Git"/>    <img src="https://user-images.githubusercontent.com/74242717/187789166-5e318468-bc61-4844-8c37-a9ba3b4fcad2.png" width="60" heigth="40" alt="GitHub" placeholder='GitHub'/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" heigth="90" alt="Docker" align="stretch"/></i>
            
 
 
