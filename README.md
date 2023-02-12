@@ -27,7 +27,7 @@
 <h2>#Skills</h2>
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" heigth="40" alt="PYTHON" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" heigth="40" alt="DJANGO"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" heigth="40" alt="JavaScript" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" heigth="40" alt="MySQL"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" heigth="40" alt="PostgreSQL"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" heigth="40" alt="HTML5" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" heigth="40" alt="CSS3"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" heigth="40" alt="PYTHON" />   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="65" heigth="40" alt="DJANGO"/>   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="60" heigth="40" alt="JavaScript" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" heigth="40" alt="MySQL"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" heigth="40" alt="PostgreSQL"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" heigth="40" alt="HTML5" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" heigth="40" alt="CSS3"/>   
 
 </div>
 
@@ -35,12 +35,19 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" heigth="40" alt="VSCODE" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" heigth="40" alt="PyCharm" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" heigth="40" alt="Linux"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" heigth="40" alt="Windows"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" heigth="40" alt="Oracle"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" heigth="40" alt="Git"/>    <img src="https://user-images.githubusercontent.com/74242717/187789166-5e318468-bc61-4844-8c37-a9ba3b4fcad2.png" width="60" heigth="40" alt="GitHub" placeholder='GitHub'/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" heigth="90" alt="Docker" align="stretch"/></i>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189952.png" width="65" heigth="40" alt="VSCODE" />    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png" width="65" heigth="40" alt="PyCharm" />    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" width="65" heigth="40" alt="Postman"/>    <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/sublime_text_22448.png" width="65" heigth="40" alt="Sublime Text"/>     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/notion_alt_macos_bigsur_icon_189899.png" width="65" heigth="40" alt="Notion"/>    <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/gimp_icon_161279.png" width="65" heigth="40" alt="Gimp"/>    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/git_macos_bigsur_icon_190141.png" width="65" heigth="40" alt="Git"/>    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png" width="65" heigth="40" alt="GitHub" placeholder='GitHub'/>    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/docker_alt_macos_bigsur_icon_190232.png" width="65" heigth="90" alt="Docker" align="stretch"/></i>
            
 
-
-
 </div>
+
+<h2>#SO</h2>
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" heigth="40" alt="Linux"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" heigth="40" alt="Windows"/>
+          
+</div>
+
 
 <h2>#Studying in This Moment</h2>
 <div align="center">
