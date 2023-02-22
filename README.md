@@ -23,7 +23,11 @@
 <h2>#Skills</h2>
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" heigth="40" alt="PYTHON" />   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="65" heigth="40" alt="DJANGO"/>   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="60" heigth="40" alt="JavaScript" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" heigth="50" alt="NodeJS"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" heigth="40" alt="MySQL"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" heigth="40" alt="PostgreSQL"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" heigth="40" alt="HTML5" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" heigth="40" alt="CSS3"/>   
+
+
+          
+
+<img src="https://user-images.githubusercontent.com/74242717/220643935-ed48744e-964d-4d1f-aaa9-fa0be03e8de2.png" width="65" heigth="40" alt="PYTHON" />     <img src="https://user-images.githubusercontent.com/74242717/220644705-91473b0f-3379-4296-9633-f88cea890c1c.png" width="65" heigth="40" alt="DJANGO"/>     <img src="https://user-images.githubusercontent.com/74242717/220645220-9fe0c632-5386-4b02-964d-52e11a88d5a1.png" width="65" heigth="40" alt="NodeJS"/>     <img src="https://user-images.githubusercontent.com/74242717/220645417-847b5845-0a1d-4177-8e3b-a3ba68f19c26.png" width="65" heigth="40" alt="JavaScript" />      <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/mysqlworkbench_103806.png" width="65" heigth="40" alt="MySQL"/>     <img src="https://user-images.githubusercontent.com/74242717/220646441-8a308c5c-4445-4fe7-83ef-b34fda2577f3.png" width="65" heigth="40" alt="PostgreSQL"/>     <img src="https://user-images.githubusercontent.com/74242717/220646754-afd30668-e4a3-425e-9743-170ec009601f.png" width="65" heigth="40" alt="HTML5" />     <img src="https://user-images.githubusercontent.com/74242717/220646633-caa06812-e85e-4b5c-8ed0-11510f3eef71.png" width="65" heigth="40" alt="CSS3"/>   
 
 </div>
 
@@ -47,8 +51,11 @@
 
 <h2>#Studying in This Moment</h2>
 <div align="center">
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" heigth="50" alt="React"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="70" heigth="50" alt="TypeSpcrite"/>    
+
+
+          
+          
+<img src="https://user-images.githubusercontent.com/74242717/220649647-d79b77be-f325-4547-8a21-0339f5504d35.png" width="65" heigth="40" alt="React"/>     <img src="https://user-images.githubusercontent.com/74242717/220649666-3c0a90d4-4716-4d23-8e23-c593d78c9ae2.png" width="65" heigth="40" alt="TypeSpcrite"/>    
  
  
  </div>
