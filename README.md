@@ -5,10 +5,11 @@
           
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&pause=1000&color=064E92&center=true&vCenter=true&width=1000&height=60&lines=%F0%9F%96%90%F0%9F%8F%BD+Hello%2C+my+name+Pedro+Henrique+Soares+Feitosa;I'm+29+years+old+%F0%9F%99%8B%F0%9F%8F%BD;I+from+São+Paulo+-+SP,+Brazil%2C+CE+%F0%9F%8F%A1;I+am+a+Bachelor+of+Information+System+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Be+Welcome+%F0%9F%98%84)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&pause=1000&color=064E92&center=true&vCenter=true&width=1000&height=60&lines=%F0%9F%96%90%F0%9F%8F%BD+Hello%2C+my+name+Pedro+Henrique+Soares+Feitosa;I+from+São+Paulo+-+SP,+Brazil%2C+CE+%F0%9F%8F%A1;I+am+a+Bachelor+of+Information+System+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Python+developer+🐍;Be+Welcome+%F0%9F%98%84)](https://git.io/typing-svg)
  
 
-<h2>#Dashboard</h2> 
+<h2>#Dashboard</h2>                               
 
 <div algin="center"> 
  
@@ -25,8 +26,6 @@
 <div align="center">
 
 
-
-          
 
 <img src="https://user-images.githubusercontent.com/74242717/220643935-ed48744e-964d-4d1f-aaa9-fa0be03e8de2.png" width="65" heigth="40" alt="PYTHON" />     <img src="https://user-images.githubusercontent.com/74242717/220644705-91473b0f-3379-4296-9633-f88cea890c1c.png" width="65" heigth="40" alt="DJANGO"/>     <img src="https://user-images.githubusercontent.com/74242717/220645220-9fe0c632-5386-4b02-964d-52e11a88d5a1.png" width="65" heigth="40" alt="NodeJS"/>     <img src="https://user-images.githubusercontent.com/74242717/220645417-847b5845-0a1d-4177-8e3b-a3ba68f19c26.png" width="65" heigth="40" alt="JavaScript" />      <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/mysqlworkbench_103806.png" width="65" heigth="40" alt="MySQL"/>     <img src="https://user-images.githubusercontent.com/74242717/220646441-8a308c5c-4445-4fe7-83ef-b34fda2577f3.png" width="65" heigth="40" alt="PostgreSQL"/>     <img src="https://user-images.githubusercontent.com/74242717/220646754-afd30668-e4a3-425e-9743-170ec009601f.png" width="65" heigth="40" alt="HTML5" />     <img src="https://user-images.githubusercontent.com/74242717/220646633-caa06812-e85e-4b5c-8ed0-11510f3eef71.png" width="65" heigth="40" alt="CSS3"/>   
 
