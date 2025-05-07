@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&pause=1000&color=064E92&center=true&vCenter=true&width=1000&height=60&lines=%F0%9F%96%90%F0%9F%8F%BD+Hello%2C+my+name+Pedro+Henrique+Soares+Feitosa;I+from+São+Paulo+-+SP,+Brazil+%F0%9F%8F%A1;Developer+Software+🖱️;Be+Welcome+to+my+repository!+%F0%9F%98%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&pause=1000&color=064E92&center=true&vCenter=true&width=1000&height=60&lines=%F0%9F%96%90%F0%9F%8F%BD+Hello%2C+my+name+Pedro+Henrique+Soares+Feitosa;Developer+Software+🖱️;Be+Welcome+to+my+repository!+%F0%9F%98%84)](https://git.io/typing-svg)
 
 
  <h2>About Me</h2>
