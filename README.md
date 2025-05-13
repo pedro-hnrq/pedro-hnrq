@@ -41,7 +41,7 @@
 <div align="center">
 
           
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,javascript,nodejs,express,tailwind,bootstrap,r,mysql,postgresql,mongodb,postman,docker,kubernetes,nginx,vscode,sublime,notion,linux,windows,git,github,gitlab,aws,azure&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,javascript,nodejs,express,tailwind,bootstrap,r,mysql,postgresql,mongodb,postman,docker,rabbitmq,nginx,vscode,sublime,notion,linux,windows,git,github,gitlab,aws,azure&perline=13)](https://skillicons.dev)
 
 
 </div>
